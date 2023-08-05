@@ -13,6 +13,7 @@
 		2B0B87852A7D7EDF006131A2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B0B87832A7D7EDF006131A2 /* Main.storyboard */; };
 		2B0B87872A7D7EE0006131A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B0B87862A7D7EE0006131A2 /* Assets.xcassets */; };
 		2B0B878A2A7D7EE0006131A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B0B87882A7D7EE0006131A2 /* LaunchScreen.storyboard */; };
+		2B0B87942A7E9CD2006131A2 /* WebsiteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B0B87932A7E9CD2006131A2 /* WebsiteViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2B0B87862A7D7EE0006131A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2B0B87892A7D7EE0006131A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2B0B878B2A7D7EE0006131A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2B0B87932A7E9CD2006131A2 /* WebsiteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebsiteViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				2B0B877D2A7D7EDF006131A2 /* AppDelegate.swift */,
 				2B0B877F2A7D7EDF006131A2 /* SceneDelegate.swift */,
 				2B0B87812A7D7EDF006131A2 /* ViewController.swift */,
+				2B0B87932A7E9CD2006131A2 /* WebsiteViewController.swift */,
 				2B0B87832A7D7EDF006131A2 /* Main.storyboard */,
 				2B0B87862A7D7EE0006131A2 /* Assets.xcassets */,
 				2B0B87882A7D7EE0006131A2 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2B0B87942A7E9CD2006131A2 /* WebsiteViewController.swift in Sources */,
 				2B0B87822A7D7EDF006131A2 /* ViewController.swift in Sources */,
 				2B0B877E2A7D7EDF006131A2 /* AppDelegate.swift in Sources */,
 				2B0B87802A7D7EDF006131A2 /* SceneDelegate.swift in Sources */,
